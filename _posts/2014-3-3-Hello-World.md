@@ -1,5 +1,6 @@
 ---
 layout: post
+published: True
 title: নিউরাল নেটওয়ার্ক ( প্রথম পর্ব )
 ---
 
@@ -153,9 +154,3 @@ def relu(x):
 
 [Gmail](http://mdhasan.nsu@gmail.com) | [Twitter](https://twitter.com/ItzMuHaSaN)
 
-References:
-
-[**What are Artificial Neural Networks**
-_This information provides you with information of,_www.psych.utoronto.ca](http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural2.html "http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural2.html")[](http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neural2.html)
-
-[http://cs231n.github.io/](http://cs231n.github.io/)
