@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Muhammad Hasan
+name: Md Hasan
 
 # Short bio or description (displayed in the header)
 description: Machine Learning and Deep Learning Practitioner
@@ -17,16 +17,16 @@ avatar: /images/profile.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: mdhasan.nsu@gmail.com
+  email: hasan@gaze.ai
   facebook: itzmhasan
   flickr:
   github: m-d-hasan
-  instagram:
-  linkedin:
+  instagram: itzmuhasan
+  linkedin: m-d-hasan
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: itzmuhasan
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/13196515/md-hasan # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
